@@ -1,4 +1,3 @@
-mytest
 <?php
 /**
  * Atom Syndication Format PHP Library
